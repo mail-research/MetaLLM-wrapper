@@ -7,7 +7,7 @@ This repository contains the code for the paper [MetaLLM: A High-performant and 
 ```
 @article{nguyen2024metallm,
   title={MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs},
-  author={Nguyen, Quang H and Hoang, Duy C and Decugis, Juliette and Manchanda, Saurav and Chawla, Nitesh V and Doan, Khoa D},
+  author={Nguyen, Quang H and Thinh, Dao and Hoang, Duy C and Decugis, Juliette and Manchanda, Saurav and Chawla, Nitesh V and Doan, Khoa D},
   journal={arXiv preprint arXiv:2407.10834},
   year={2024}
 }
